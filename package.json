@@ -1,0 +1,9 @@
+{
+  "name": "PromiseBasics",
+  "version": "1.0.0",
+  "description": "Practice writing promises",
+  "main": "app.js",
+  "author": "benfurber <ben@furber-consultancy.com>",
+  "license": "MIT",
+  "private": true
+}
